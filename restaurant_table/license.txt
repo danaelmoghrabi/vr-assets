@@ -1,0 +1,11 @@
+Model Information:
+* title:	restaurant table
+* source:	https://sketchfab.com/3d-models/restaurant-table-fa86b35b358d40248cae79b5de8d536a
+* author:	harway (https://sketchfab.com/harway)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "restaurant table" (https://sketchfab.com/3d-models/restaurant-table-fa86b35b358d40248cae79b5de8d536a) by harway (https://sketchfab.com/harway) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
