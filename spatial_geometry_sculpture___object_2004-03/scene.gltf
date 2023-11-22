@@ -1,0 +1,395 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3698,
+      "max": [
+        181.84347534179688,
+        186.24960327148438,
+        281.2673034667969
+      ],
+      "min": [
+        -181.79931640625,
+        -227.45201110839844,
+        -84.89324951171875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 44376,
+      "componentType": 5126,
+      "count": 3698,
+      "max": [
+        0.9992815852165222,
+        0.9999673366546631,
+        0.9997967481613159
+      ],
+      "min": [
+        -0.9987597465515137,
+        -0.9998533129692078,
+        -0.9992715716362
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 22176,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 321,
+      "max": [
+        12.0
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 321,
+      "max": [
+        0.0,
+        -1.7621459846850485e-12,
+        5.684341886080802e-14
+      ],
+      "min": [
+        0.0,
+        -1.8758328224066645e-12,
+        -1.1368683772161603e-13
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1284,
+      "componentType": 5126,
+      "count": 361,
+      "max": [
+        12.0
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 361,
+      "max": [
+        7.515532758574275e-17,
+        8.771383510842903e-17,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -8.438488974660122e-17,
+        -6.200117061267948e-17,
+        -0.8660253286361694,
+        -0.4924236834049225
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2728,
+      "componentType": 5126,
+      "count": 361,
+      "max": [
+        12.0
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 5776,
+      "componentType": 5126,
+      "count": 361,
+      "max": [
+        1.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        -0.8616291880607605,
+        -0.0,
+        0.0,
+        -0.5
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 5,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 5,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 4,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Take 001",
+      "samplers": [
+        {
+          "input": 3,
+          "interpolation": "LINEAR",
+          "output": 4
+        },
+        {
+          "input": 5,
+          "interpolation": "LINEAR",
+          "output": 6
+        },
+        {
+          "input": 7,
+          "interpolation": "LINEAR",
+          "output": 8
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "CADAVeR Kage (https://sketchfab.com/CADAVeRKage)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/spatial-geometry-sculpture-object-2004-03-e2e8364718db4384aefba348ef873471",
+      "title": "Spatial Geometry Sculpture  [ Object 2004-03 ]"
+    },
+    "generator": "Sketchfab-12.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 88704,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 88752,
+      "byteOffset": 88704,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4172,
+      "byteOffset": 177456,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3852,
+      "byteOffset": 181628,
+      "byteStride": 12,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11552,
+      "byteOffset": 185480,
+      "byteStride": 16,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 197032,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.05,
+        0.05,
+        0.05
+      ],
+      "name": "01_-_Default",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.4,
+        "roughnessFactor": 0.30000000000000004
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Loft003_01 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.006666666828095913,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.4802974020113686e-18,
+        -0.006666666828095913,
+        0.0,
+        0.0,
+        0.006666666828095913,
+        1.4802974020113686e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "382ba262be284b42895923728888da77.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Object_2"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Dummy001",
+      "rotation": [
+        -0.7071068286895752,
+        -0.0,
+        0.0,
+        0.7071068286895752
+      ],
+      "translation": [
+        0.0,
+        500.0,
+        2.185569428547751e-05
+      ]
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "Loft003",
+      "rotation": [
+        0.0,
+        0.0,
+        2.384185791015625e-07,
+        1.0
+      ],
+      "translation": [
+        0.0,
+        -1.8189894035458565e-12,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        6.123233995736766e-17,
+        0.0,
+        1.0,
+        0.0,
+        -0.32738279730286396,
+        0.9448917948792612,
+        2.0046414740642954e-17,
+        0.0,
+        -0.9448917948792612,
+        -0.32738279730286396,
+        5.785793560697424e-17,
+        0.0,
+        43.30126953125,
+        74.99996948242188,
+        -1.1444091796875e-05,
+        1.0
+      ],
+      "name": "Object_6"
+    },
+    {
+      "mesh": 0,
+      "name": "Loft003_01 - Default_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

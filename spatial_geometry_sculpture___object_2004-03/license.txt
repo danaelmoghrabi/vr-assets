@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spatial Geometry Sculpture  [ Object 2004-03 ]
+* source:	https://sketchfab.com/3d-models/spatial-geometry-sculpture-object-2004-03-e2e8364718db4384aefba348ef873471
+* author:	CADAVeR Kage (https://sketchfab.com/CADAVeRKage)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spatial Geometry Sculpture  [ Object 2004-03 ]" (https://sketchfab.com/3d-models/spatial-geometry-sculpture-object-2004-03-e2e8364718db4384aefba348ef873471) by CADAVeR Kage (https://sketchfab.com/CADAVeRKage) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
