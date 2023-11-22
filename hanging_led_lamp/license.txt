@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hanging LED Lamp
+* source:	https://sketchfab.com/3d-models/hanging-led-lamp-3e10c56d38de491d958285db17549251
+* author:	Jopa Shnik (https://sketchfab.com/golovashenco_dima)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hanging LED Lamp" (https://sketchfab.com/3d-models/hanging-led-lamp-3e10c56d38de491d958285db17549251) by Jopa Shnik (https://sketchfab.com/golovashenco_dima) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
