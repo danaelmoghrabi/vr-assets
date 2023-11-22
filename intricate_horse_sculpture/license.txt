@@ -1,0 +1,11 @@
+Model Information:
+* title:	Intricate Horse Sculpture
+* source:	https://sketchfab.com/3d-models/intricate-horse-sculpture-3f3e582814174fbd877cf28e868fe85b
+* author:	Kiersten Kube (https://sketchfab.com/kube.archvis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Intricate Horse Sculpture" (https://sketchfab.com/3d-models/intricate-horse-sculpture-3f3e582814174fbd877cf28e868fe85b) by Kiersten Kube (https://sketchfab.com/kube.archvis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
