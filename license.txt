@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden sculpture
+* source:	https://sketchfab.com/3d-models/wooden-sculpture-50378b4f1bbd451bb0e7f2cc020b09b1
+* author:	thunk3d.scanner (https://sketchfab.com/thunk3d.scanner)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden sculpture" (https://sketchfab.com/3d-models/wooden-sculpture-50378b4f1bbd451bb0e7f2cc020b09b1) by thunk3d.scanner (https://sketchfab.com/thunk3d.scanner) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
