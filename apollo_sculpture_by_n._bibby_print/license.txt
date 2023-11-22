@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apollo Sculpture by N. Bibby Print
+* source:	https://sketchfab.com/3d-models/apollo-sculpture-by-n-bibby-print-a5515619d375412cbbd6b21b99220a6c
+* author:	FDF (https://sketchfab.com/davidefilianoti)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apollo Sculpture by N. Bibby Print" (https://sketchfab.com/3d-models/apollo-sculpture-by-n-bibby-print-a5515619d375412cbbd6b21b99220a6c) by FDF (https://sketchfab.com/davidefilianoti) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
